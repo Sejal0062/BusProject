@@ -76,7 +76,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'bpmspythondb',
         'USER': 'root',
-        'PASSWORD': 'ankit23',
+        'PASSWORD': 'root',
         'HOST': 'localhost',
         'PORT': '3306',
         
